@@ -1,4 +1,4 @@
-import Table from "../components/Table";
+import Table from "./components/Table";
 
 export const USER_COUNT_TO_FETCH = 3;
 

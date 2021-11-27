@@ -1,6 +1,6 @@
 import React from "react";
-import Header from "../components/Header";
-import Table from "../components/Table";
+import Header from "./components/Header";
+import Table from "./components/Table";
 import { TABLE_CONFIG, USER_COUNT_TO_FETCH } from "./constants";
 import Map from "./modules/Map";
 
