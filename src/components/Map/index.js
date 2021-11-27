@@ -3,7 +3,7 @@ import PropTypes from "prop-types";
 import mapsApi from "google-maps-api";
 import Marker from "./Marker";
 
-const GOOGLE_MAP_API_KEY = "AIzaSyANDj4mJ2i_d0zRiNozVqbUGMgZTnDOeYI";
+const GOOGLE_MAP_API_KEY = "AIzaSyDTVNLbPHJFW13XDe31-oaMsrhRNxhhH7g";
 
 class GoogleMaps extends React.Component {
   constructor(props) {
